@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashok kumar</h1>
-- 🔭 I’m currently working on **Data engineering projects**
+- 🔭 I’m currently working on **Data scientist and engineering projects**
 
 - 👯 I’m looking to collaborate on **Data and finance projects**
 
